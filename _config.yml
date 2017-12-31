@@ -1,6 +1,6 @@
 # main text of home
 name: Aditya Parab
-bio: Software Tester  Writer  Runner
+bio: Software Tester
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://adiparab14.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: adiparab14
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: adiparab14
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: Aditya-Parab
 # reddit: username
-medium: medium
+medium: adiparab14
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: adiparab14@gmail.com
 
 authors:
     johndoe:
